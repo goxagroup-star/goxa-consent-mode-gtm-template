@@ -25,11 +25,13 @@ It applies privacy-first consent defaults during Consent Initialization and upda
 
 ## Validation
 
-The template bundled with GOXA Consent Manager was imported into Google Tag Manager Template Editor and passed all 7 included test scenarios.
+The GOXA template application logic previously passed all 7 included Google Tag Manager Template Editor test scenarios.
 
-Validated template SHA-256:
+The Community Template Gallery candidate adds only Google's required `___TERMS_OF_SERVICE___` section; the runtime code and test scenarios are unchanged. This Gallery candidate must be re-imported and the 7/7 tests re-run before final submission evidence is recorded.
 
-`aee9b07d63900d5f5588ebac3e914a6055d2d9ecc7ad01609e9d7cb2eb9a0d84`
+Gallery candidate SHA-256:
+
+`dd498171bba5b34ad60c2af73aa5a0e0b5166d52ee74279dbf38b6264a122821`
 
 ## Documentation
 
