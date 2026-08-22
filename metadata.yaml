@@ -1,0 +1,5 @@
+homepage: "https://goxa.eu/"
+documentation: "https://github.com/goxagroup-star/goxa-consent-mode-gtm-template#readme"
+versions:
+  - sha: ec51bd9a886a9cdee9cf7fde23b9bacefc33f329
+    changeNotes: "Initial public release of GOXA Consent Mode for Google Tag Manager. Validated with 7/7 template tests."
