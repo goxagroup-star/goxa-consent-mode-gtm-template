@@ -1,4 +1,11 @@
-﻿___INFO___
+﻿___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
+
+___INFO___
 
 {
   "type": "TAG",
@@ -196,218 +203,92 @@ ___WEB_PERMISSIONS___
               {
                 "type": 3,
                 "mapKey": [
-                  {
-                    "type": 1,
-                    "string": "consentType"
-                  },
-                  {
-                    "type": 1,
-                    "string": "read"
-                  },
-                  {
-                    "type": 1,
-                    "string": "write"
-                  }
+                  {"type":1,"string":"consentType"},
+                  {"type":1,"string":"read"},
+                  {"type":1,"string":"write"}
                 ],
                 "mapValue": [
-                  {
-                    "type": 1,
-                    "string": "ad_storage"
-                  },
-                  {
-                    "type": 8,
-                    "boolean": false
-                  },
-                  {
-                    "type": 8,
-                    "boolean": true
-                  }
+                  {"type":1,"string":"ad_storage"},
+                  {"type":8,"boolean":false},
+                  {"type":8,"boolean":true}
                 ]
               },
               {
                 "type": 3,
                 "mapKey": [
-                  {
-                    "type": 1,
-                    "string": "consentType"
-                  },
-                  {
-                    "type": 1,
-                    "string": "read"
-                  },
-                  {
-                    "type": 1,
-                    "string": "write"
-                  }
+                  {"type":1,"string":"consentType"},
+                  {"type":1,"string":"read"},
+                  {"type":1,"string":"write"}
                 ],
                 "mapValue": [
-                  {
-                    "type": 1,
-                    "string": "analytics_storage"
-                  },
-                  {
-                    "type": 8,
-                    "boolean": false
-                  },
-                  {
-                    "type": 8,
-                    "boolean": true
-                  }
+                  {"type":1,"string":"analytics_storage"},
+                  {"type":8,"boolean":false},
+                  {"type":8,"boolean":true}
                 ]
               },
               {
                 "type": 3,
                 "mapKey": [
-                  {
-                    "type": 1,
-                    "string": "consentType"
-                  },
-                  {
-                    "type": 1,
-                    "string": "read"
-                  },
-                  {
-                    "type": 1,
-                    "string": "write"
-                  }
+                  {"type":1,"string":"consentType"},
+                  {"type":1,"string":"read"},
+                  {"type":1,"string":"write"}
                 ],
                 "mapValue": [
-                  {
-                    "type": 1,
-                    "string": "ad_user_data"
-                  },
-                  {
-                    "type": 8,
-                    "boolean": false
-                  },
-                  {
-                    "type": 8,
-                    "boolean": true
-                  }
+                  {"type":1,"string":"ad_user_data"},
+                  {"type":8,"boolean":false},
+                  {"type":8,"boolean":true}
                 ]
               },
               {
                 "type": 3,
                 "mapKey": [
-                  {
-                    "type": 1,
-                    "string": "consentType"
-                  },
-                  {
-                    "type": 1,
-                    "string": "read"
-                  },
-                  {
-                    "type": 1,
-                    "string": "write"
-                  }
+                  {"type":1,"string":"consentType"},
+                  {"type":1,"string":"read"},
+                  {"type":1,"string":"write"}
                 ],
                 "mapValue": [
-                  {
-                    "type": 1,
-                    "string": "ad_personalization"
-                  },
-                  {
-                    "type": 8,
-                    "boolean": false
-                  },
-                  {
-                    "type": 8,
-                    "boolean": true
-                  }
+                  {"type":1,"string":"ad_personalization"},
+                  {"type":8,"boolean":false},
+                  {"type":8,"boolean":true}
                 ]
               },
               {
                 "type": 3,
                 "mapKey": [
-                  {
-                    "type": 1,
-                    "string": "consentType"
-                  },
-                  {
-                    "type": 1,
-                    "string": "read"
-                  },
-                  {
-                    "type": 1,
-                    "string": "write"
-                  }
+                  {"type":1,"string":"consentType"},
+                  {"type":1,"string":"read"},
+                  {"type":1,"string":"write"}
                 ],
                 "mapValue": [
-                  {
-                    "type": 1,
-                    "string": "functionality_storage"
-                  },
-                  {
-                    "type": 8,
-                    "boolean": false
-                  },
-                  {
-                    "type": 8,
-                    "boolean": true
-                  }
+                  {"type":1,"string":"functionality_storage"},
+                  {"type":8,"boolean":false},
+                  {"type":8,"boolean":true}
                 ]
               },
               {
                 "type": 3,
                 "mapKey": [
-                  {
-                    "type": 1,
-                    "string": "consentType"
-                  },
-                  {
-                    "type": 1,
-                    "string": "read"
-                  },
-                  {
-                    "type": 1,
-                    "string": "write"
-                  }
+                  {"type":1,"string":"consentType"},
+                  {"type":1,"string":"read"},
+                  {"type":1,"string":"write"}
                 ],
                 "mapValue": [
-                  {
-                    "type": 1,
-                    "string": "personalization_storage"
-                  },
-                  {
-                    "type": 8,
-                    "boolean": false
-                  },
-                  {
-                    "type": 8,
-                    "boolean": true
-                  }
+                  {"type":1,"string":"personalization_storage"},
+                  {"type":8,"boolean":false},
+                  {"type":8,"boolean":true}
                 ]
               },
               {
                 "type": 3,
                 "mapKey": [
-                  {
-                    "type": 1,
-                    "string": "consentType"
-                  },
-                  {
-                    "type": 1,
-                    "string": "read"
-                  },
-                  {
-                    "type": 1,
-                    "string": "write"
-                  }
+                  {"type":1,"string":"consentType"},
+                  {"type":1,"string":"read"},
+                  {"type":1,"string":"write"}
                 ],
                 "mapValue": [
-                  {
-                    "type": 1,
-                    "string": "security_storage"
-                  },
-                  {
-                    "type": 8,
-                    "boolean": false
-                  },
-                  {
-                    "type": 8,
-                    "boolean": true
-                  }
+                  {"type":1,"string":"security_storage"},
+                  {"type":8,"boolean":false},
+                  {"type":8,"boolean":true}
                 ]
               }
             ]
@@ -432,14 +313,8 @@ ___WEB_PERMISSIONS___
           "value": {
             "type": 2,
             "listItem": [
-              {
-                "type": 1,
-                "string": "ads_data_redaction"
-              },
-              {
-                "type": 1,
-                "string": "url_passthrough"
-              }
+              {"type":1,"string":"ads_data_redaction"},
+              {"type":1,"string":"url_passthrough"}
             ]
           }
         }
